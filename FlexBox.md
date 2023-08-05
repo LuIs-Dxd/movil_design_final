@@ -1,3 +1,18 @@
+FlexBox Froggy
+![imagen](https://github.com/LuIs-Dxd/movil_design_final/assets/45068622/de5cb53f-adc6-46be-b290-36cd519f0ef3)
+
+
+Mi nivel favorito: 24 - Trae a las ranas a su casa una vez más usando las propiedades CSS que aprendiste
+    justify-content
+    align-items
+    flex-direction
+    order
+    align-self
+    flex-wrap
+    flex-flow
+    align-content
+Ya que no te recuerdan los flex-flow:column-reverse y tardas como 5m en recordarlos xD
+
 # Layout con Flexbox
 
 Un componente puede definir el diseño de sus hijos utilizando el algoritmo de Flexbox. Flexbox está diseñado para proporcionar un diseño consistente en diferentes tamaños de pantalla.
